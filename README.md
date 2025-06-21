@@ -1,60 +1,60 @@
-<!-- Anime Boy Coding GIF -->
+<!-- 🔥 Dark Anime Coding Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="250" alt="Anime boy coding">
+  <img src="https://your-custom-banner-link.com/banner.png" width="100%" alt="Dark anime coding banner" />
 </p>
 
-<h1 align="center">Hey, I'm Chamoda Hapuarachchi 👋</h1>
-<h3 align="center">💻 Full-stack Developer | 🌸 Anime Enthusiast | 🎨 Aesthetic Coder</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FCA5A5&center=true&vCenter=true&width=435&lines=Hi,+I'm+Chamoda+Hapuarachchi;Full-stack+Dev+%7C+Anime+Inspired+%7C+AWS+Cloud" alt="Typing SVG">
+</h1>
 
 ---
 
-### 🧩 Who Am I?
+### 🧑‍💻 About Me
 
-- 👨‍💻 I code with creativity and caffeine
-- 🌌 Aesthetic design & clean code make me smile
-- 📚 Lifelong learner — currently exploring **[Your Tech Stack/Interest]**
-- 🗂️ Portfolio → [your-portfolio-link.com](https://your-portfolio-link.com)
+> ✨ I’m a full-stack developer who loves anime, clean UI, and cloud tech  
+> 🌙 I build with a focus on experience — and aesthetics  
+> 🛸 Always learning something new and leveling up
+
+📬 Email: **chamodakavishka03@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chamoda-hapuarachchi-915b83342)
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ My Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
----
-
-### ✨ GitHub Magic
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="Streak Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🧪 GitHub Stats
 
 <p align="center">
-  <a href="www.linkedin.com/in/chamoda-hapuarachchi-915b83342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:chamodakavishka03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamoda-Hapuarachchi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamoda-Hapuarachchi&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Anime+%2B+Coding+%3D+💜;Building+with+passion+%F0%9F%92%BB;Let's+connect+and+create!+%F0%9F%A4%9D" alt="Typing SVG" />
-</p>
+### 💫 Contact Me
 
 <p align="center">
-  <i>“Like anime arcs, every project has a story. Let’s write epic code together.”</i> 🌠
+  <a href="mailto:chamodakavishka03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F43F5E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chamoda-hapuarachchi-915b83342">
+    <img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="color:#f472b6;font-size:16px;">
+  <i>"Every project is another episode in my dev anime."</i> 🌌
 </p>
