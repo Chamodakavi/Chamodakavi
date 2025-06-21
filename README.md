@@ -1,35 +1,36 @@
-<!-- 🔥 Custom Banner -->
+<!-- 🌌 Custom Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png" alt="Chamoda Hapuarachchi Banner" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi,+I'm+Chamoda+Hapuarachchi;Anime+Inspired+Fullstack+Dev;Next.js+%7C+AWS+%7C+React+Native" alt="Typing Intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi,+I'm+Chamoda+Hapuarachchi;Full-Stack+Developer+%7C+Cloud+Enthusiast;Crafting+Elegant+User+Experiences" alt="Typing Intro">
 </h1>
 
 ---
 
-<!-- 👋 Anime Waving GIF -->
+<!-- 👋 Waving GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlvZDNmOW40ZHA0MTRmM281bmw2cDFodGJpYTd0MWFhOHQ3MG5qOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="Anime boy waving">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlvZDNmOW40ZHA0MTRmM281bmw2cDFodGJpYTd0MWFhOHQ3MG5qOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="Waving">
 </p>
 
 ---
 
-### 💫 About Me
+### 💼 About Me
 
-- 🧑‍💻 Full-stack developer who vibes with anime energy
-- ✨ UI addict: Next.js + Chakra UI + MUI
-- 🌩️ Cloud curious: building cool things on **AWS**
-- 📱 React Native for mobile magic
-- 🧃 Just here to code and look cool doing it
+I’m a full-stack developer with a passion for building intuitive, responsive, and modern digital experiences. I specialize in crafting front-end interfaces and scalable back-end systems using modern frameworks and cloud platforms.
 
-📬 Reach me at: **chamodakavishka03@gmail.com**  
+- 🧠 Always learning and adapting to new technologies
+- 💡 Driven by clean code, elegant UI, and purposeful UX
+- ☁️ Focused on building scalable, cloud-powered apps
+- 📱 Love building cross-platform mobile apps
+
+📧 Email: **chamodakavishka03@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/chamoda-hapuarachchi-915b83342)
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -51,7 +52,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:chamodakavishka03@gmail.com">
@@ -65,5 +66,5 @@
 ---
 
 <p align="center">
-  <i>“Every repo is a new episode in my dev anime arc.”</i> 🌌
+  <i>"Every project is an opportunity to design, build, and inspire."</i>
 </p>
