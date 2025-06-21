@@ -56,5 +56,5 @@
 ---
 
 <p align="center" style="color:#f472b6;font-size:16px;">
-  <i>"Every project is another episode in my dev anime."</i> 🌌
+  <i>"Every project is another episode in my dev carrier"</i> 🌌
 </p>
